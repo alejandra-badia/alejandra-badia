@@ -1,21 +1,22 @@
 # Alejandra Badia
 
-Data Analyst | BI Analyst
+Data Analyst | BI Analyst | Technical Project Manager
 
-[2–3 sentence professional positioning]
+Data Analyst & Tech Lead backed by 11 years of Technical Project Management experience in the oil & gas industry and a Master’s in International Business, with technical qualifications across Kimball dimensional modeling, advanced Power Query/DAX analytics, Azure cloud data flows, and full-stack API/dashboard programming.
+
 
 ## What I Do
 
-• Business intelligence and dashboard development
-• Data modeling and analytics engineering
-• Business / marketing analytics
-• Healthcare analytics
-• Cloud data foundations
+• **Data Modeling & Analytics Engineering** – Designing robust data structures utilizing Kimball frameworks, star/galaxy schemas, and clean data preparation.
+• **Business Intelligence & Dashboards** – Building custom, interactive visualization platforms and advanced Power Query/DAX reporting solutions.
+• **Requirements & Functional Analytics** – Translating high-level project scopes and user stories into structured BI measurement blueprints to deliver actionable business metrics.
+• **Full-Stack & Cloud Integration** – Integrating APIs, full-stack application logic (OOP/PHP), and Azure cloud data flows.
+• **Business, Marketing, and Healthcare Analytics**
 
 ## Technical Skills
 
-Power BI | DAX | Power Query | Excel | SQL | Python
-Azure | Data Modeling | Git/GitHub | etc.
+Power BI | DAX | Power Query | Excel | SQL | Python (ML) | Azure Data Flows
+Kimball Dimensional Modeling (Star/Galaxy) | PHP | API Integration | OOP
 
 ## Featured Projects
 
