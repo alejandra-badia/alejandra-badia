@@ -2,7 +2,7 @@
 
 Data Analyst | Business Intelligence | Technical Project Manager
 
-Data Analyst & Tech Lead backed by 11 years of Technical Project Management experience in the oil & gas industry and a Master’s in International Business, with technical qualifications across Kimball dimensional modeling, advanced Power Query/DAX analytics, Azure cloud data flows, and full-stack API/dashboard programming.
+Data Analyst & Technical Project Manager backed by 11 years of Technical Project Management experience in the oil & gas industry and a Master’s in International Business, with technical qualifications across Kimball dimensional modeling, advanced Power Query/DAX analytics, Azure cloud data flows, and full-stack API/dashboard programming.
 
 ## What I Do
 
