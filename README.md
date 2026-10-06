@@ -107,7 +107,6 @@ Data Analyst & Tech Lead backed by 11 years of Technical Project Management expe
 
 → **[View Project](https://github.com/alejandra-badia/vitalsync-interoperability-dashboard)** · **[Live Demo](https://vitalsync.smarterspec.tech/)**
 
-
 ## Education
 
 * **Master’s in International Business**
@@ -118,6 +117,10 @@ Data Analyst & Tech Lead backed by 11 years of Technical Project Management expe
 * **Power BI**
 * **Python for Machine Learning**
 * **Full-Stack Web Development, SQL, APIs**
+
+## Professional Background
+
+11 years of technical project engineering and management in the oil & gas industry, a BS in Chemical Engineering, and a Master’s in International Business. My engineering foundation centers on process flows, root-cause diagnostics, and capital project delivery. Having managed complex technical scopes and cross-functional stakeholders, I approach analytics not as isolated charts, but as end-to-end business systems: translating operational requirements into structured data models, auditing metric integrity, and delivering decision-ready reporting
 
 ## Resume
 
