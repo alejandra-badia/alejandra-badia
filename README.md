@@ -63,9 +63,6 @@ Data Analyst & Tech Lead backed by 11 years of Technical Project Management expe
 
 **Tech Stack:** Microsoft Excel · Power Query · Power Pivot · DAX
 
-**Key Findings & Recommendation:** The audit confirmed 0.0% patient safety leaks and zero IT/HL7 interface drops, with valid runs averaging 1.4 minutes against the <5-minute SLA. Instead, integration latency was driven by a 24.3-minute manual troubleshooting bottleneck on compromised sample holds (`Critical_Error`), alongside positive processing-time variances pointing to unlogged mechanical reruns. The recommendation is to implement automated 15-minute LIS hold alerts to accelerate technician review and schedule preventative maintenance on analyzer modules exceeding baseline cycle times.
-
-
 ### Summary of Results
 * **Zero Patient Safety Leaks:** 0.0% invalid or errored results reached the patient's EHR chart, confirming robust LIS middleware rules and pre-analytical validation filters.
 * **100% IT Interface Uptime:** Integration latency for valid samples averaged **1.4 minutes** (well within the <5-minute SLA threshold), confirming zero infrastructure or HL7 server transmission drops.
