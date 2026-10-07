@@ -121,7 +121,7 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 
 ## Resume
 
-→ **[View Resume](YOUR-RESUME-LINK)**
+→ **[View Resume](Alejandra_Badia_resume_git_hub.pdf)**
 
 ## Currently Developing
 
