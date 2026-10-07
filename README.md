@@ -130,4 +130,4 @@ Python • Machine Learning • Healthcare Operations
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/alejandra-badia-544910371)
+[LinkedIn](https://www.linkedin.com/in/alejandra-badia)
