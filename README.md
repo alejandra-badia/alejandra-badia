@@ -69,7 +69,7 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 * **Manual Bottleneck Identified:** High latency (averaging **24.3 minutes**) was strictly confined to `Critical_Error` samples, representing human-driven verification and cancellation workflows rather than network drag.
 * The recommendation is to implement automated 15-minute LIS hold alerts to accelerate review, schedule preventative maintenance on analyzers exceeding baseline cycle times, and collaborate with clinical supervisors to audit pre-analytical sample collection protocols.
 
-→ **[View Project](https://github.com/alejandra-badia/clinical-laboratory-operations-dashboard)**
+→ **[View Project](https://github.com/alejandra-badia/lis-ehr-interoperability-diagnostic-dashboard)**
 
 
 ### Healthcare Analytics Cloud Foundation
