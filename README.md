@@ -102,7 +102,7 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 * **Hybrid Ingestion for Semi-Structured Data:** Ingested external FHIR R4 API data by retaining raw JSON payloads for traceability while extracting and materializing key observation metrics into SQL tables for trend analysis.
 * **Built-in Governance & Observability:** Implemented schema validation tracking, retry monitoring, and threshold-based status indicators (Healthy, Warning, Critical) to surface interface latency and bottlenecks across operational domains.
 
-→ **[View Project](https://github.com/alejandra-badia/vitalsync-interoperability-dashboard)** · **[Live Demo](https://vitalsync.smarterspec.tech/)**
+→ **[View Project](https://github.com/alejandra-badia/vitalsync-platform)** · **[Live Demo](https://vitalsync.smarterspec.tech/)**
 
 ## Education
 
