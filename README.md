@@ -95,7 +95,7 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 
 **Skills Demonstrated:** Relational Database Design & SQL Querying · REST API Integration & Ingestion (FHIR R4) · Multi-Tier Data Modeling (Normalized vs. Denormalized) · Health Informatics (HL7 / FHIR Concepts) · Full-Stack Dashboard Engineering (MVC / PHP) · System Observability & SLA Threshold Monitoring
 
-**Tech Stack:** PHP · MySQL · SQL · REST APIs (FHIR R4) · HL7 Simulation · JSON · HTML5/CSS3 · Figma
+**Tech Stack:** PHP · MySQL · SQL · REST APIs (FHIR R4) · HL7 Simulation · HTML5/CSS3 · Figma
 
 **Key Takeaways & Technical Insights:**
 * **Multi-Tier Modeling & Reporting Abstraction:** Separated normalized transactional tables (HIS), structured audit logs (HL7 status/retries), and denormalized summary tables (`patient_sync_summary`) to keep analytical dashboard queries performant.
