@@ -2,14 +2,14 @@
 
 Data Analyst | Business Intelligence | Technical Project Manager
 
-Data Analyst & Technical Project Manager backed by 11 years of Technical Project Management experience in the oil & gas industry and a Master’s in International Business, with technical qualifications across Kimball dimensional modeling, advanced Power Query/DAX analytics, Azure cloud data flows, and full-stack API/dashboard programming.
+Data Analyst & Technical Project Manager backed by 11 years of Technical Project Management experience in the oil & gas industry and a Master’s in International Business, with technical qualifications across SQL/MySQL, Kimball dimensional modeling, advanced Power Query/DAX analytics, Azure cloud data flows, and full-stack API/dashboard programming.
 
 ## What I Do
 
-* **Data Modeling & Analytics** – Designing robust data structures utilizing Kimball frameworks, star/galaxy schemas, and clean data preparation.
+* **Data Modeling & Analytics** – Designing robust data structures utilizing Kimball frameworks, star/galaxy schemas, and clean data preparation. Writing optimized SQL queries, views, and stored procedures to transform raw data into high-performance dimensional models.
 * **Business Intelligence & Dashboards** – Building custom, interactive visualization platforms and advanced Power Query/DAX reporting solutions.
 * **Requirements & Functional Analytics** – Translating high-level project scopes and user stories into structured BI measurement blueprints to deliver actionable business metrics.
-* **Full-Stack & Cloud Integration** – Integrating APIs, full-stack application logic (OOP/PHP), and Azure cloud data flows.
+* **Full-Stack & Cloud Integration** – Integrating APIs, full-stack application logic (OOP/PHP), and Azure cloud data flows.  Designing modular data access objects (DAOs) to encapsulate complex SQL operations, ensuring clean data delivery and separating SQL query execution from frontend application logic.
 * **Business & Domain Analytics** – Applying quantitative analysis to marketing performance, operational workflows, and healthcare data to identify trends, inefficiencies, and actionable recommendations.
 
 ## Technical Skills
