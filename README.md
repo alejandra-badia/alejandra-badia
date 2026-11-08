@@ -20,17 +20,18 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 * **Cloud:** Azure Data Flows · Azure Data Lake / Bicep
 * **Analytical Methods:** KPI Analysis · Trend Analysis · Variance Analysis · Root-Cause Analysis · Performance Analysis · Cohort Analysis
 
-## Projects Portfolio Overview
+## Portfolio Projects Overview
 
 | Project | Brief Overview | Tech Stack & Core Skills |
 | :--- | :--- | :--- |
 | **[E-Commerce Marketing BI Engine](https://github.com/alejandra-badia/ecommerce-marketing-bi-engine)** | End-to-end commercial analytics diagnosing marketing spend scaling vs. net profitability and marketing efficiency (MER / ROAS). | **Power BI · DAX · Power Query**<br>Kimball dimensional modeling, galaxy schemas, data transformation, KPI modeling, marketing attribution. |
 | **[BI Measurement Planner](https://github.com/alejandra-badia/bi-measurement-planner)** | Full-stack Kimball specification engine automating BI project scoping, grain definition, DAX mapping, and spec exports (`.json`/`.md`). | **PHP · JavaScript · JSON · HTML/CSS**<br>Kimball architecture governance, field-level ETL mapping, full-stack MVC tooling, technical documentation contracts. |
+| **[PostBuilder](https://github.com/alejandra-badia/postbuilder)**<br>_([Live Demo](https://postbuilder.smarterspec.tech/))_ | Interactive content workflow simulator transforming multi-step form inputs into validated, API-ready structured JSON payloads. | **JavaScript · PHP · AJAX · HTML5/CSS3 · JSON**<br>Data contracts & schema validation, real-time UI state management, asynchronous backend integration, Agile/Scrum delivery. |
 | **[Clinical Lab Diagnostic Dashboard](https://github.com/alejandra-badia/lis-ehr-interoperability-diagnostic-dashboard)** | Root-cause analysis platform auditing 1,000 specimen runs to isolate interface latency, EHR data sync exceptions, and TAT SLA breaches. | **Excel · Power Query · Power Pivot · DAX**<br>Root-cause diagnostics, relational schema design, HL7 / EHR interoperability audit, SLA exception tracking. |
 | **[Healthcare Analytics Cloud Foundation](https://github.com/alejandra-badia/healthcare-analytics-cloud-foundation)** | Enterprise Azure Medallion architecture deploying private, secure ADLS Gen2 storage via zero-trust Infrastructure as Code. | **Azure · Bicep · ADLS Gen2 · Entra ID · GitHub Actions**<br>Cloud governance (CAF/WAF), Medallion lakehouse layout, private networking & RBAC, CI/CD with OIDC. |
 | **[VitalSync Interoperability Platform](https://github.com/alejandra-badia/vitalsync-platform)**<br>_([Live Demo](https://vitalsync.smarterspec.tech/))_ | Observability platform tracking data flows, event retries, and API telemetry across HIS, HL7 v2 logs, and FHIR R4 interfaces. | **PHP · MySQL · REST APIs (FHIR R4) · SQL**<br>Normalized vs. denormalized multi-tier modeling, semi-structured JSON ingestion, API integration, SLA monitoring. |
 
-## Featured Projects
+## Portfolio Projects
 
 ### E-Commerce Marketing BI Engine
 
@@ -61,6 +62,22 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 
 → **[View Project](https://github.com/alejandra-badia/bi-measurement-planner)**
 
+### PostBuilder: Structured Content Workflow & JSON Publishing Simulator
+
+**Business Problem:** How can frontend publishing workflows enforce strict schema validation, input sanitization, and data consistency to reliably generate API-ready payloads without downstream system errors?
+
+**What I Built:** A lightweight web application and workflow simulator that transforms unstructured user-generated input into consistent, validated JSON contracts consumable by backend APIs. The application features multi-step state handling with section-aware auto-navigation for invalid inputs, dynamic DOM updates for real-time post previews, asynchronous submission via AJAX, and formatted JSON output generation with download/copy capabilities. Developed using a structured two-sprint Agile/Scrum methodology tracked in Jira.
+
+**Skills Demonstrated:** Data Contracts & Schema Validation · Frontend State Management · Section-Aware Validation UX · Asynchronous Integration (AJAX / RESTful endpoints) · XSS Prevention & File Upload Sanitization · Agile / Scrum Sprint Execution
+
+**Tech Stack:** JavaScript (Vanilla Modular) · PHP · AJAX · HTML5 · Custom CSS Design System · JSON
+
+**Key Takeaways & Technical Architecture:**
+- **Strict Data Contracts:** Bridges the gap between UI state and backend ingestion by enforcing matching client/server validation rules, ensuring user submissions always generate reliable, machine-readable JSON schemas.
+- **Guided Error Recovery UX:** Built native-enhanced validation that monitors section state, auto-scrolling and shifting focus directly to invalid fields across sidebar sections to eliminate user submission friction.
+- **Defensive Input & File Handling:** Implemented safe DOM text-rendering methods (`textContent`) to eliminate XSS vulnerabilities, applied slug normalization to prevent directory traversal, and enforced dual MIME/extension validation on image uploads.
+
+→ **[View Project](https://github.com/alejandra-badia/postbuilder)** · **[Live Demo](https://postbuilder.smarterspec.tech/)**
 
 ### Clinical Laboratory Operations & Interoperability Diagnostic Dashboard
 
