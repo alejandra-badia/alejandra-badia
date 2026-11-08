@@ -20,7 +20,16 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 * **Cloud:** Azure Data Flows · Azure Data Lake / Bicep
 * **Analytical Methods:** KPI Analysis · Trend Analysis · Variance Analysis · Root-Cause Analysis · Performance Analysis · Cohort Analysis
 
-  
+## Projects Portfolio Overview
+
+| Project | Brief Overview | Tech Stack & Core Skills |
+| :--- | :--- | :--- |
+| **[E-Commerce Marketing BI Engine](https://github.com/alejandra-badia/ecommerce-marketing-bi-engine)** | End-to-end commercial analytics diagnosing marketing spend scaling vs. net profitability and marketing efficiency (MER / ROAS). | **Power BI · DAX · Power Query**<br>Kimball dimensional modeling, galaxy schemas, data transformation, KPI modeling, marketing attribution. |
+| **[BI Measurement Planner](https://github.com/alejandra-badia/bi-measurement-planner)** | Full-stack Kimball specification engine automating BI project scoping, grain definition, DAX mapping, and spec exports (`.json`/`.md`). | **PHP · JavaScript · JSON · HTML/CSS**<br>Kimball architecture governance, field-level ETL mapping, full-stack MVC tooling, technical documentation contracts. |
+| **[Clinical Lab Diagnostic Dashboard](https://github.com/alejandra-badia/lis-ehr-interoperability-diagnostic-dashboard)** | Root-cause analysis platform auditing 1,000 specimen runs to isolate interface latency, EHR data sync exceptions, and TAT SLA breaches. | **Excel · Power Query · Power Pivot · DAX**<br>Root-cause diagnostics, relational schema design, HL7 / EHR interoperability audit, SLA exception tracking. |
+| **[Healthcare Analytics Cloud Foundation](https://github.com/alejandra-badia/healthcare-analytics-cloud-foundation)** | Enterprise Azure Medallion architecture deploying private, secure ADLS Gen2 storage via zero-trust Infrastructure as Code. | **Azure · Bicep · ADLS Gen2 · Entra ID · GitHub Actions**<br>Cloud governance (CAF/WAF), Medallion lakehouse layout, private networking & RBAC, CI/CD with OIDC. |
+| **[VitalSync Interoperability Platform](https://github.com/alejandra-badia/vitalsync-platform)**<br>_([Live Demo](https://vitalsync.smarterspec.tech/))_ | Observability platform tracking data flows, event retries, and API telemetry across HIS, HL7 v2 logs, and FHIR R4 interfaces. | **PHP · MySQL · REST APIs (FHIR R4) · SQL**<br>Normalized vs. denormalized multi-tier modeling, semi-structured JSON ingestion, API integration, SLA monitoring. |
+
 ## Featured Projects
 
 ### E-Commerce Marketing BI Engine
