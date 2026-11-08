@@ -119,10 +119,6 @@ Data Analyst & Technical Project Manager backed by 11 years of Technical Project
 
 11 years of technical project engineering and management in the oil & gas industry, a BS in Chemical Engineering, and a Master’s in International Business. My engineering foundation centers on process flows, root-cause diagnostics, and capital project delivery. Having managed complex technical scopes and cross-functional stakeholders, I approach analytics not as isolated charts, but as end-to-end business systems: translating operational requirements into structured data models, auditing metric integrity, and delivering decision-ready reporting
 
-## Resume
-
-→ **[View Resume](Alejandra_Badia_resume_git_hub.pdf)**
-
 ## Currently Developing
 
 Healthcare Analytics & ML Engine
