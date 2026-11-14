@@ -1,6 +1,6 @@
 # Alejandra Badia
 
-### Technical Project Manager & Engineer | Data Analytics, Cloud Systems & Automation
+### Technical Project Management & Engineering | Data Analytics, Cloud Systems & Automation
 
 Technical Project Manager and Chemical Engineer (USC) with an MSc in International Business (UPF) and 11+ years of industrial project management experience in the energy sector (Chevron). I specialize in bridge roles that translate complex operational requirements into working technical solutions—combining rigorous project governance, robust data analytics, and governed cloud infrastructure. 
 
