@@ -1,24 +1,29 @@
 # Alejandra Badia
 
-Data Analyst | Business Intelligence | Technical Project Manager
+### Technical Project Manager & Engineer | Data Analytics, Cloud Systems & Automation
 
-Data Analyst & Technical Project Manager backed by 11 years of industrial project management experience in the oil & gas industry. Specialized in bridge roles that translate executive strategy into working technical solutions—combining robust data analytics, custom internal automation tools, and governed cloud pipelines to eliminate operational bottlenecks. Master’s in International Business, with technical qualifications across SQL/MySQL, Kimball dimensional modeling, advanced Power Query/DAX analytics, Azure cloud data flows, and full-stack API/dashboard programming.
+Technical Project Manager and Chemical Engineer (USC) with an MSc in International Business (UPF) and 11+ years of industrial project management experience in the energy sector (Chevron). I specialize in bridge roles that translate complex operational requirements into working technical solutions—combining rigorous project governance, robust data analytics, and governed cloud infrastructure. 
 
-## What I Do
+My work spans three core technical tracks: **Industrial & Technical Project Management**, **Data Analytics & Business Intelligence**, and **Cloud/DevSecOps Systems & Automation**.
 
-* **Data Modeling & Analytics** – Designing robust data structures utilizing Kimball frameworks, star/galaxy schemas, and clean data preparation. Writing optimized SQL queries, views, and stored procedures to transform raw data into high-performance dimensional models.
-* **Business Intelligence & Dashboards** – Building custom, interactive visualization platforms and advanced Power Query/DAX reporting solutions.
-* **Requirements & Functional Analytics** – Translating high-level project scopes and user stories into structured BI measurement blueprints to deliver actionable business metrics.
-* **Full-Stack & Cloud Integration** – Integrating APIs, full-stack application logic (OOP/PHP), and Azure cloud data flows.  Designing modular data access objects (DAOs) to encapsulate complex SQL operations, ensuring clean data delivery and separating SQL query execution from frontend application logic.
-* **Business & Domain Analytics** – Applying quantitative analysis to marketing performance, operational workflows, and healthcare data to identify trends, inefficiencies, and actionable recommendations.
+---
 
-## Technical Skills
+## 🚀 What I Do
 
-* **BI & Analytics:** Power BI · DAX · Power Query · Excel · SQL
-* **Data & Modeling:** Kimball Dimensional Modeling · Star/Galaxy Schemas · Data Transformation · Data Quality
-* **Programming & Integration:** Python (ML) · PHP · APIs · OOP
-* **Cloud:** Azure Data Flows · Azure Data Lake / Bicep
-* **Analytical Methods:** KPI Analysis · Trend Analysis · Variance Analysis · Root-Cause Analysis · Performance Analysis · Cohort Analysis
+- **Technical Project Management & Operations** – Leading cross-functional teams across Waterfall/Stage-Gate and Agile (Scrum/Kanban) frameworks. Managing scopes of work, CAPEX controls, vendor integrations, and applying Lean Six Sigma root-cause analysis (RCA) to eliminate operational bottlenecks.
+- **Data Analytics & Business Intelligence** – Designing robust data structures utilizing Kimball frameworks, star/galaxy schemas, and clean ETL pipelines. Writing optimized SQL queries to transform raw data into high-performance dimensional models and decision-ready Power BI / TIBCO Spotfire dashboards.
+- **Cloud Infrastructure & Full-Stack Automation** – Provisioning reproducible cloud architectures in Microsoft Azure (ADLS Gen2, Bicep IaC, Private Endpoints, Entra ID RBAC). Scripting workflows in Python and building full-stack web applications (PHP, JavaScript, MySQL, REST APIs, JSON data contracts).
+
+---
+
+## 🛠️ Core Tech Stack
+
+- **Project Governance & Methodologies:** Agile (Scrum, Kanban), Stage-Gate / Waterfall, CAPEX Controls, Lean Six Sigma / RCA, Management of Change (MOC), Jira, Trello
+- **Data & BI:** Power BI, DAX, Power Query (M), SQL, MySQL, Kimball Dimensional Modeling, TIBCO Spotfire, Advanced Excel (Power Pivot)
+- **Cloud & DevOps:** Microsoft Azure (ADLS Gen2, Bicep IaC, Private Endpoints, Entra ID), Git, GitHub, CI/CD (GitHub Actions)
+- **Programming & Web:** Python (Pandas, NumPy, Scikit-Learn), PHP (OOP/MVC), JavaScript, REST APIs, JSON data contracts
+
+---
 
 ## Portfolio Projects Overview
 
